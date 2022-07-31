@@ -65,10 +65,12 @@ Entretenimento
 * Black Mirror - Engenharia reversa
 * Black Mirror - Toda a sua história
 * Black Mirror - Hino Nacional
+* [Mind Field](https://www.youtube.com/watch?v=iqKdEhx-dD4&list=PL-D2eb2vBV7LzsXkzeinc7v1eZ-22AaCs)
 
 ### O QUE A TV NÃO MOSTRA
 * [PCC - Primeiro Cartel da Capital](https://www.youtube.com/watch?v=ZJ1odbHDWPU&list=PLWgivY7fJz-cNFM4m-2BKFsImcam45u4l&index=3)
-* 
+* [República das milícias](https://open.spotify.com/show/6rOkNLT6HOZLD4syOMKZxv)
+* [Falcão: Meninos do tráfico](https://www.youtube.com/watch?v=B-s2SDi3rkY)
 
 ### RACISMO
 * The Free State of Jones - Um Estado de Liberdade
