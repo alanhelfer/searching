@@ -91,7 +91,7 @@ Entretenimento
 * A revolução dos bichos - George Orwell
 * Admirável mundo novo - Aldous Huxley - Thanks Cleonice Konzen
 * Germinal - Émile Zola - Thanks Cleonice Konzen
-* Projeto nacional: O dever da esperança  - Ciro Gomes
+* Projeto nacional: O dever da esperança - Ciro Gomes
 * Clube da luta - Chuck Palahniuk
 * Crime e castigo - Fiódor Dostoievski
 * Ensaio sobre a cegueira - José Saramago
@@ -99,4 +99,11 @@ Entretenimento
 * Quem mexeu no meu queijo? - Spencer Johnson
 * O pequeno príncipe - Antoine de Saint Exupéry
 * O velho e o mar - Ernest Hemingway
-* LENDO - O retrato de Dorian Gray - Oscar Wilde
+* O retrato de Dorian Gray - Oscar Wilde
+* O poder do hábito - Charles Duhigg [09/2022]
+* O sol é para todos - Harper Lee [09/2022]
+* A coragem de ser imperfeito - Brené Brown [10/2022]
+* Os miseráveis - Victor Hugo [LENDO 10/2022 - ]
+* O Andar do Bêbado - Como o Acaso Determina Nossas Vidas - Leonard Mlodinow [11/2022 - ]
+* Outliers - Foras de série - Malcolm Gladwell [FUTURO]
+* Trabalhe 4 horas por semana - Timothy Ferris [FUTURO]
